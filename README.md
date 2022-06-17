@@ -4,14 +4,12 @@
 
 <hr>
 
-# Dowload GIT 
-    - <a href="https://git-scm.com/download/win">Access</a>
+# Dowload GIT <a href="https://git-scm.com/download/win">Access</a>
     - verificar a versão pelo terminal
         - git --version
             - retorno: 2.36.1
 
-# Conta no github
-    - <a href="https://github.com/">Criar conta</a>
+# Conta no github <a href="https://github.com/">Criar conta</a>
     - Inserir o email / senha e login desejado
     - Selecionar todas as opções que vier e confirmar registro
 
